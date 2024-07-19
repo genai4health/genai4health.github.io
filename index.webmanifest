@@ -1,0 +1,12 @@
+{
+  "name": "GenAI4Health 2024",
+  "short_name": "GenAI4Health 2024",
+  "lang": "en-us",
+  "theme_color": "#4a76c8",
+  "background_color": "#fff",
+
+  
+  
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
