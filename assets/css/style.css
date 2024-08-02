@@ -77,7 +77,7 @@ html,body{
     position: -webkit-sticky;
     position: fixed;
     top: 0;
-    z-index: 9999999; 
+    z-index: 1000; 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     width: 100%;
 }
@@ -488,8 +488,8 @@ html,body{
     background-color: #F1FAF1 !important;
 }
 
-.table-3 {
-    background-color: #FAF4DE !important;
+.table-4 {
+    background-color: #faf4dea9 !important;
 }
 
 
@@ -582,7 +582,7 @@ html,body{
 .modal {
     display: none;
     position: fixed;
-    z-index: 1;
+    z-index: 1050;
     left: 0;
     top: 0;
     width: 100%;
