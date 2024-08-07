@@ -691,7 +691,11 @@ html,body{
     color: #888ea5;
 }
 
-
+.hm-footer-copyright1 p {
+    font-size: 14px;
+    color: #888ea5;
+    text-transform: capitalize;
+}
 /*===============================
     Scroll Top
 ===============================*/
