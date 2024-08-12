@@ -761,6 +761,12 @@ html,body{
     font-weight: 500;
 }
 
+.single-organizer .link2{
+    color: #333;
+    text-decoration: underline;
+    font-weight: 400;
+}
+
 .link2 {
     color: #333;
     text-decoration: underline;
